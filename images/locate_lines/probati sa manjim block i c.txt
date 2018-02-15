@@ -4,3 +4,8 @@ Provjeriti koji su parametri! Mozda su bili b_33_c_35, ili 9_15 ili 11_13
 
 Dobijena slika je CRNO-BIJELA, sto znaci da je
    parametar `method` vjerovatno cv2.THRESH_BINARY_INV !
+
+%%%%%%%%%
+%% Winners (er_2_50_after_dil_1_50):
+%%  41_35   45_11   55_09
+%%%%%%%%%%%%%%%
