@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+images/adaptive_params_testing/t_0_b_31_c_35.jpg
+images/adaptive_params_testing/t_0_b_51_c_45.jpg
+images/adaptive_params_testing/t_0_b_41_c_35.jpg
+images/adaptive_params_testing/t_0_b_41_c_45.jpg
+images/adaptive_params_testing/t_0_b_51_c_35.jpg

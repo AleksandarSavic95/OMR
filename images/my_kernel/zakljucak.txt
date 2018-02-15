@@ -1,0 +1,38 @@
+Dilacija kernelom, gdje X u sredini moze biti :
+# # # # # # # # # # # # # # # # # # # #
+# [
+#  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, X, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+#  [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+# ]
+# # # # # # # # # # # # # # # # # # # #
+UPOTREBA: E1 kernel za rekonstrukciju linija, DALJE?!...
+__________
+EROZIJA - nezavisno da li su crni ili bijeli pikseli bitni,
+  ova operacija smanjuje br. BIJELIH (povecava br. CRNIH) piksela
+  a u nasem slucaju, to znaci da CRTA/rekonstruise linije!
+----
+ E0
+    svaku tacku zamijeni kernelom, a tacku OBRISE (jer je 0 u sredini)
+ E1
+    svaku tacku zamijeni kernelom, BEZ brisanja te tacke (jer je u sredini 1)
+----
+___________
+DILACIJA - nezavisno da li su crni ili bijeli pikseli bitni,
+  ova operacija smanjuje br. CRNIH (povecava br. BIJELIH) piksela
+  a u nasem slucaju, to znaci da BRISE linije!
+
+----
+ D0
+    CRTA tacku samo u pikselima koji se 100% poklapaju sa kernelom
+ D1
+    ZADRZAVA tacku -- || -- (samo u pikselima koji se 100% poklapaju sa kernelom)
+----

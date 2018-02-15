@@ -1,0 +1,7 @@
+######
+# up_down - moj algoritam - gleda praznine ispod i iznad trenutnog kandidata za liniju
+######
+
+  dilacija sa presirokim kernelom previse ostecuje sliku
+
+  visoki kernel suzava (bas tako - visoki suzava) simbole, pa visina ne treba da prelazi 2px (pola debljine linije?)

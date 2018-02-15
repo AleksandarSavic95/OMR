@@ -1,0 +1,22 @@
+DILACIJA: - brise (jer su na slici crni pikseli BITNI, a ne bijeli, kako je inace...)
+	kernel 2x2 istanjuje sve linije (i dijelove objekata i linijskog sistema)
+	kernel 3x2 dodatno istanjuje SVE linije ==== dobro za "praznjenje" polovina i cijelih nota koje su NA linijama, potencijalno lose zbog gubitka informacija
+	kernel 3x3 je kao 3x2, ali previse ostecuje linije -- NE KORISTITI
+	kernel 2x3 ima vecu VISINU od SIRINE, pa istanjuje ||| notne vratove i taktice
+	kernel 5x2 je previsok i istanjuje sve simbole, a linije BRISE -- NE KORISTITI
+	Sto je SIRI kernel, horizontalne === linije su TANJE
+	
+EROZIJA: - podebljava (jer su na slici crni pikseli BITNI, a ne bijeli, kako je inace...)
+	sto je SIRI kernel, to se crni dijelovi POVISAVAJU (rastu na gore i dole)
+	sto je VISI kernel, to se crni dijelovi SIRE (rastu na lijevo i desno)
+
+DILACIJA pa EROZIJA:
+	uklanjaju (zajedno!) sve horizontalne linije ===
+	sto je SIRI kernel, bice VISE note - od erozije
+	sto je VISI kernel, bice SIRE note - od erozije
+
+EROZIJA pa DILACIJA:
+	uklanjaju (zajedno!) sve horizontalne linije ===
+	otprilike zadrzava iste dimenzije simbola, sa manjim gubitkom informacija
+	sto je SIRI kernel, bice NIZE note (i sire)
+	sto je VISI kernel, bice UZE note (i vise)
