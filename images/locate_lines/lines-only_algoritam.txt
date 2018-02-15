@@ -1,0 +1,52 @@
+NAPRAVI ALGORITAM KOJI CE DA U lines-only SLICI
+PROVJERAVA DA LI IMA LINIJAA IZNAD/ISPOD POSLATOG RUN-A
+
+kandidat - crni run za koji provjeravamo da li je linija
+
+PRIMA:
+	1) koordinate pocetka kandidata - cumulative iz pozivajuce funkcije
+	2) visinu kandidata - run_length iz pozivajuce funkcije
+	3) prosjecnu debljinu linije (PETVORITI U INT!), da bi znao
+
+----------------------------+------------------------------
+ niz koji provjeravamo:     |   niz za koji provjeravamo:
+skok od cumulative-a za	    | debljina linije -1, recimo
+visina_praznine*1.5 recimo  |
+visine: debljina_linije*2.5 |
+----------------------------+------------------------------
+	0				1
+	0				1
+	1				1
+	1				1
+	1
+	1
+	0
+	0
+	0
+--- ------- -------- -----------
+######### USE #######
+## USE:		   ##
+#    [1] in lines-only image, to LOCATE the lines AND/OR check if there is a line on the current location/run
+#        - easier to find lines, since there are no other elements
+#        - takes more time, since we need to generate the lines-only image,
+#           ,BUT THAT IS NOT A PROBLEM SINCE WE WILL NEED IT TO LOCATE THE LINES
+#
+#    [2] in binary image, to check if there is a line on the current location/run
+#
+# da se utvrde linije treba samo odrediti visinu Y a ne i X!
+#########
+____________________________________________
+#### ENHANCEMENT #### Unaprijedjenje ! #####
+# TIP: mozda za svaki linijski sistem (ili cak liniju) cuvati vise x, koordinata,
+#   recimo na svaku petinu sirine slike provjeravati lokacije
+#   linijskih sistema (ili pojedinacnih linija) na vise mijesta u slici:
+#       |       |        |      |
+#       V       V        V      V
+# -----..____..--------------------  <== curved line, others are ok
+# --------------------------------- 
+# ---------------------------------
+# ---------------------------------
+# ---------------------------------
+######
+# def x_in_y(x, y):
+#######
