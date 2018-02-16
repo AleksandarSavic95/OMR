@@ -1,0 +1,9 @@
+Kernel 2x7 daje najbolje rezultate za EROZIJU pa DILACIJU!
+
+Preniski kerneli (1 .. 5) ne ispravljaju dovoljno "grbe" na linijama.
+
+Previsoki kerneli (11, 15..) previse mijenjaju simbole poput kljuceva i zastavica od osmina, sesnaestina i sl.
+
+Za ispravljanje linija nije pogodno koristiti presiroke kernele, jer oni samo podebljavaju neravnine, jer RAZVLACE sliku na gore i dole (siroki kerneli --> povisavaju, da).
+
+Metod mean_c dao je malo bolje rezultate od gaussian_c u pogledu konzistentnosti simbola, sto ce olaksati prepoznavanje istih putem `template-matching` metode.

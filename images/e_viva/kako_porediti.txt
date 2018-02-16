@@ -1,0 +1,10 @@
+iz svakog od ovih foldera:
+	51_35
+	51_45
+	51_35_prepared
+	51_45_prepared
+
+izvuci:
+	1) original (binarizovanu sliku) (iste su 51_35 i 51_35 prepared
+	2) RM_S_L
+	3) RM_S_L_UP_DOWN

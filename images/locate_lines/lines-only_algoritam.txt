@@ -6,7 +6,7 @@ kandidat - crni run za koji provjeravamo da li je linija
 PRIMA:
 	1) koordinate pocetka kandidata - cumulative iz pozivajuce funkcije
 	2) visinu kandidata - run_length iz pozivajuce funkcije
-	3) prosjecnu debljinu linije (PETVORITI U INT!), da bi znao
+	3) prosjecnu visinu/debljinu linije i praznine(PETVORITI U INT!), da bi znao za koliko da "skace" nanize prilikom pretrage
 
 ----------------------------+------------------------------
  niz koji provjeravamo:     |   niz za koji provjeravamo:
