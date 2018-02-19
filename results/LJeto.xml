@@ -81,39 +81,39 @@
           <sign>G</sign>
           <line>2</line>
           </clef>
-        </attributes><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        </attributes><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="2" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
         <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="2" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="3" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
         <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="3" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="4" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
         <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="4" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="5" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>5</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="6" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>B</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="7" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="8" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="9" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem><beam number="2">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem></note></measure><measure number="10" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>B</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>5</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem></note></measure><measure number="11" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>5</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="12" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>B</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
-        <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="13" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="5" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>5</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="6" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
         <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="14" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="7" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
         <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="8" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="9" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem><beam number="2">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem></note></measure><measure number="10" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>B</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem></note></measure><measure number="11" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>5</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="12" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>A</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
         <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
-        <type>quarter</type><stem>up</stem></note></measure><measure number="15" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>4</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="13" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>G</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="14" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>F</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem><beam number="1">up</beam></note><note default-x="102.27" default-y="-25.00"><pitch><step>E</step><octave>4</octave></pitch><duration>1</duration><voice>1</voice>
+        <type>eight</type><stem>up</stem></note><note default-x="102.27" default-y="-25.00"><pitch><step>D</step><octave>4</octave></pitch><duration>2</duration><voice>1</voice>
+        <type>quarter</type><stem>up</stem></note></measure><measure number="15" width="211.90"><note default-x="102.27" default-y="-25.00"><pitch><step>C</step><octave>4</octave></pitch><duration>4</duration><voice>1</voice>
         <type>half</type><stem>up</stem></note></measure></part></score-partwise>
